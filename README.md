@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @skv069
-- 👀 I’m interested in ..learning c language.
 - 🌱 I’m currently learning .c language..
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me . ctfctf09@gmail.com ..
 
 <!---

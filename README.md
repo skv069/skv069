@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skv069
+- 👋 Hi, I’m sneha
 - 🌱 I’m currently learning .c language..
 - 📫 How to reach me . ctfctf09@gmail.com ..
 
